@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.canete.filmtracker",
+      "sha256_cert_fingerprints": [
+        "8B:C6:27:3D:BC:5E:F1:B8:E7:8C:E7:9C:D6:CF:2B:F0:34:42:DC:C5:A1:76:D6:44:D0:CC:51:DD:73:EA:68:6E"
+      ]
+    }
+  }
+]
